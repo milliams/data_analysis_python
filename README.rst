@@ -1,4 +1,1 @@
-.. image:: https://mybinder.org/badge.svg
-   :target: https://mybinder.org/v2/gh/milliams/data_analysis_python/master?urlpath=lab
-
-The notes for this course are available at the "launch Binder" link above or at `nbviewer <http://nbviewer.jupyter.org/github/milliams/data_analysis_python/blob/master/Introduction.ipynb>`_.
+This project is now hsoted at https://gitlab.com/milliams/data_analysis_python/ with the output at https://milliams.com/courses/data_analysis_python/
